@@ -1,0 +1,4 @@
+git init                   / inicializa git en el directorio actual
+git add                    / anade los archivos para que git de seguimiento
+git status                 / muestra el status de los archivos trackeados
+git remote add origin link / anade un repositorio en la nube
