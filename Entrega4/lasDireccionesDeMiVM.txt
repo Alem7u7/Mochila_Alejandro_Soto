@@ -1,0 +1,4 @@
+IP Publica: 187.145.36.28
+IP Privada: 10.0.2.15
+Mac: 08:00:27:3a:8d:7a
+Es diferente la IP Publica y privada de nuestra maquina host? si
